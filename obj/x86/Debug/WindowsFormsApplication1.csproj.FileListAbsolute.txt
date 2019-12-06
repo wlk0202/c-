@@ -1,0 +1,27 @@
+C:\Users\319-6\Documents\Visual Studio 2010\Projects\cddg\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\319-6\Documents\Visual Studio 2010\Projects\cddg\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\319-6\Documents\Visual Studio 2010\Projects\cddg\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\319-6\Documents\Visual Studio 2010\Projects\cddg\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\319-6\Documents\Visual Studio 2010\Projects\cddg\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\319-6\Documents\Visual Studio 2010\Projects\cddg\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\319-6\Documents\Visual Studio 2010\Projects\cddg\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\319-6\Documents\Visual Studio 2010\Projects\cddg\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\319-6\Documents\Visual Studio 2010\Projects\cddg\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+d:\바탕화면\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojAssemblyReference.cache
+d:\바탕화면\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+d:\바탕화면\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form2.resources
+d:\바탕화면\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+d:\바탕화면\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.cache
+d:\바탕화면\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+d:\바탕화면\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\user\source\repos\WindowsFormsApp1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\user\source\repos\WindowsFormsApp1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\user\source\repos\WindowsFormsApp1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\user\source\repos\WindowsFormsApp1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.cache
+C:\Users\user\source\repos\WindowsFormsApp1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\user\source\repos\WindowsFormsApp1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\user\source\repos\WindowsFormsApp1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\user\source\repos\WindowsFormsApp1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\user\source\repos\WindowsFormsApp1\WindowsFormsApplication1\bin\Debug\MetroFramework.dll
+C:\Users\user\source\repos\WindowsFormsApp1\WindowsFormsApplication1\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\user\source\repos\WindowsFormsApp1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.CopyComplete
